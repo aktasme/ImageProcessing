@@ -1,0 +1,5 @@
+Lenna: 1 5 60 70
+Cameraman: 1 7 100 150
+Fruits: 1 5 50 120
+House: 1 3 200 210
+Woman: 1 7 130 140
